@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 
 ### Tech Stack
 <img src="https://img.shields.io/badge/-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
+<img src="https://img.shields.io/badge/-00599C?style=for-the-badge&logo=cplusplus&logoColor=black">
 
