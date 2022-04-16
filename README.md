@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-<a href="http://www,instagram.com/hyeoniworld" target="_blank"><img src="https://img.shields.io/badge/apple-#000000?style=flat-square&logo=apple.svg&logoColor=white"/></a>
+<a href="http://www,instagram.com/hyeoniworld" target="_blank"><img src="https://img.shields.io/badge/apple-#000000?style=flat-square&logo=apple&logoColor=white"/></a>
