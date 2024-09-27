@@ -1,4 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=50&section=header&text=Welcome%20To%20Hyewon's%20GitHub&fontSize=45" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=100&section=header&text=Welcome%20To%20Hyewon's%20GitHub&fontSize=45" />
+</div>
+
 <!--
 **Leehyewon96/Leehyewon96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,4 +23,6 @@
 </p>
 
 <h3 align="center">✨ SNS ✨</h3>
+<p align="center">
 <a href="https://www.instagram.com/hyeoniworld" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+</p>
