@@ -1,5 +1,6 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=150&section=header&text=Welcome%20To%20Hyewon's%20GitHub&fontSize=45&animation=twinkling&fontColor=d6ace6)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=150&section=header&text=Welcome%20To%20Hyewon's%20GitHub&fontSize=45&animation=twinkling&fontColor=d6ace6
+&fontAlign=50)
 <!--
 **Leehyewon96/Leehyewon96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
