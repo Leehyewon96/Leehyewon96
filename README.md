@@ -1,4 +1,4 @@
-[<div style='position: relative; width: 100%; height: 100%; padding-top: 37.5%; overflow: hidden; will-change: transform;'></div>](https://www.miricanvas.com/v/13plbxo)
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=50&section=header&text=Welcome%20To%20Hyewon's%20GitHub&fontSize=90" />
 <!--
 **Leehyewon96/Leehyewon96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
