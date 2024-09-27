@@ -1,4 +1,4 @@
-###                                                 Hi there 👋
+### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=150&section=header&text=Welcome%20To%20Hyewon's%20GitHub&fontSize=45&animation=twinkling&fontColor=d6ace6&fontAlign=50)
 <!--
 **Leehyewon96/Leehyewon96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,9 @@
 
 
 ### Tech Stack
+<p align="center">
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=black"> <img src="https://img.shields.io/badge/csharp-99CC00?style=for-the-badge&logo=c&logoColor=black">
+</p>
 
 
 <img src="https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=black">
