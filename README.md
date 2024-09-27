@@ -18,7 +18,7 @@
 
 ### Tech Stack
 <p align="center">
-<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=black"> <img src="https://img.shields.io/badge/csharp-99CC00?style=for-the-badge&logo=c&logoColor=black">
+<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=black"> <img src="https://img.shields.io/badge/csharp-99CC00?style=for-the-badge&logo=csharp&logoColor=black">
 <img src="https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=black">
 </p>
 
