@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=50&section=header&text=Welcome%20To%20Hyewon's%20GitHub&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=50&section=header&text=Welcome%20To%20Hyewon's%20GitHub&fontSize=45" />
 <!--
 **Leehyewon96/Leehyewon96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
