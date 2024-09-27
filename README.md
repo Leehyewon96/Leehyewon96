@@ -26,3 +26,14 @@
 <p align="center">
 <a href="https://www.instagram.com/hyeoniworld" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 </p>
+
+<br>
+<div align=center>
+	<br>
+
+<br>
+<p>🏆 Baekjoon solved Rank 🏆</p>
+	
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lhw629)](https://solved.ac/lhw629/)
+</div>
+<br>
