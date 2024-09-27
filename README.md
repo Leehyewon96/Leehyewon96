@@ -19,10 +19,8 @@
 ### Tech Stack
 <p align="center">
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=black"> <img src="https://img.shields.io/badge/csharp-99CC00?style=for-the-badge&logo=c&logoColor=black">
-</p>
-
-
 <img src="https://img.shields.io/badge/VScode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=black">
+</p>
 
 ### SNS
 <a href="https://www.instagram.com/hyeoniworld" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
