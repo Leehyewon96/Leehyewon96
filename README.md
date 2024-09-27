@@ -18,8 +18,8 @@
 
 ### Tech Stack
 <p align="center">
-<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=black"> <img src="https://img.shields.io/badge/csharp-99CC00?style=for-the-badge&logo=sharp&logoColor=black">
-<img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=whitek&logoBg=black">
+<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=blue"> <img src="https://img.shields.io/badge/csharp-99CC00?style=for-the-badge&logo=sharp&logoColor=yellow">
+<img src="https://img.shields.io/badge/unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=whitek">
 </p>
 
 ### SNS
