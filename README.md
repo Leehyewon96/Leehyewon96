@@ -1,5 +1,4 @@
-<div style='position: relative; width: 100%; height: 0; padding-top: 37.5%; overflow: hidden; will-change: transform;'>
-        </div>
+<div style='position: relative; width: 100%; height: 0; padding-top: 37.5%; overflow: hidden; will-change: transform;'></div>
 <!--
 **Leehyewon96/Leehyewon96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
