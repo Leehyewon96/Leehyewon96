@@ -26,6 +26,9 @@
 <p align="center">
 <a href="https://www.instagram.com/hyeoniworld" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 </p>
+<p align="center">
+<a href="https://unityking.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+</p>
 
 <br>
 <div align=center>
